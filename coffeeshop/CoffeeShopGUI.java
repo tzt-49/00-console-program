@@ -64,7 +64,7 @@ public class CoffeeShopGUI {
             }
             bill.append("\n----------------\n");
             bill.append("Total: $").append(total).append("\n\n");
-            bill.append("Thank you! (See you again!)");
+            bill.append("Thank you! (Kalay Lay WEk Lay Yoon<3)");
             
             // Text Area မှာ စာသွားပေါ်မယ်
             billArea.setText(bill.toString());
